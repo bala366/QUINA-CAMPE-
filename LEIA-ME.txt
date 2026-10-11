@@ -1,0 +1,2 @@
+QUINA CAMPEAO V1 - Android / GitHub\n
+Motor original: quina_campeao_v1.py (sem alterar os calculos).\nSeleciona TXT/CSV, analisa 75 falhas, superposicoes, 10 blocos, e percorre C(80,5)=24.040.016 combinacoes.\nExatamente 1 repetida do ultimo sorteio.\nAndroid usa PDF nativo para gerar volante roxo com marcacoes verdes.\nBuild: GitHub Actions / android-apk.yml; Java 17 / Gradle 8.9.\nO projeto ainda nao foi compilado em Android real.\n

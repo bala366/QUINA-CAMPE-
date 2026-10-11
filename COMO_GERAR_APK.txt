@@ -1,0 +1,1 @@
+1. Crie repositorio em https://github.com/new\n2. Envie CONTEUDO do ZIP para raiz.\n3. Actions > Gerar APK Quina Campeao > Run workflow.\n4. Baixe QUINA_CAMPEAO_APK nos artifacts.\n
